@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Merge_Sort" targetName="Merge_Sort" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="344444f5-5d5a-4e66-a8ba-2ab34dee526b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ShognANrNQcb3yPPcpAz1eqQr9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Merge_Sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Merge_Sort" TARGET_NAME="Merge_Sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Merge_Sort" RUN_TARGET_NAME="Merge_Sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="344444f5-5d5a-4e66-a8ba-2ab34dee526b" name="Default Changelist" comment="" />
+      <created>1572025301668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572025301668</updated>
+      <workItem from="1572025302939" duration="12023000" />
+      <workItem from="1572107583444" duration="43000" />
+      <workItem from="1572354848779" duration="202000" />
+      <workItem from="1572356619890" duration="2152000" />
+      <workItem from="1572360023657" duration="3189000" />
+      <workItem from="1572434125198" duration="17000" />
+      <workItem from="1573738513959" duration="294000" />
+      <workItem from="1573827528530" duration="625000" />
+      <workItem from="1574013587869" duration="30000" />
+      <workItem from="1576581830721" duration="76000" />
+      <workItem from="1578494623518" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1576581905855">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1576581905855" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center" timestamp="1576581905855">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1576581905855" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left" timestamp="1576581905853">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1576581905853" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right" timestamp="1576581905855">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1576581905855" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="a3[0]" language="ObjectiveC" />
+        <watch expression="a3[1]" language="ObjectiveC" />
+        <watch expression="a3[2]" language="ObjectiveC" />
+        <watch expression="a3[3]" language="ObjectiveC" />
+        <watch expression="a3[4]" language="ObjectiveC" />
+        <watch expression="a1[1]" language="ObjectiveC" />
+        <watch expression="a1[0]" language="ObjectiveC" />
+        <watch expression="a2[1]" language="ObjectiveC" />
+        <watch expression="a2[0]" language="ObjectiveC" />
+        <watch expression="a2[2]" language="ObjectiveC" />
+        <watch expression="a2[10]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
