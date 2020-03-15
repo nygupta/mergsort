@@ -2,8 +2,7 @@
 using namespace std;
 int *MergeSort(int *a, int n);
 int *Merge(int *a1, int *a2, int n1, int n2);
-int main()
-{
+int main() {
     int n;
     cin >> n;
     int *array = new int[n];
@@ -14,8 +13,7 @@ int main()
         cout << "\t" << array[i];
     cout << endl;
 }
-int *MergeSort(int *arr, int n)
-{
+int *MergeSort(int *arr, int n) {
     if (n == 1)
         return arr;
     int mid = n / 2;
@@ -30,19 +28,15 @@ int *MergeSort(int *arr, int n)
     arr = Merge(a, b, mid, n - mid);
     return arr;
 }
-int *Merge(int *a1, int *a2, int n1, int n2)
-{
+int *Merge(int *a1, int *a2, int n1, int n2) {
     int *a3 = new int[n1 + n2];
     int k = 0, i = 0, j = 0;
-    while (i < n1 && j < n2)
-    {
-        if (a1[i] <= a2[j])
-        {
+    while (i < n1 && j < n2) {
+        if (a1[i] <= a2[j]) {
             a3[k] = a1[i];
             i++;
         }
-        else
-        {
+        else {
             a3[k] = a2[j];
             j++;
         }
